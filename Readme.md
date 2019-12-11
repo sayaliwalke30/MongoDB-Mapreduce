@@ -1,4 +1,10 @@
 ## Data analysis using MongoDB mapreduce
+
+/**
+
+author Sayali Walke
+
+**/
 This repository contains all the data anlysis from basics to advance using MongoDb.
 Basic commands and functionality of MongoDb is demonstrated here.
 Also the Map reduce on various big data is performed.
