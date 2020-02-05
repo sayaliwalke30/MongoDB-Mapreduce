@@ -17,5 +17,5 @@ The datasets used in examples can be found here:
 http://grouplens.org/datasets/movielens/
 
 AccessLog:
-I have attached this dataset.
+I have attached this dataset
 
